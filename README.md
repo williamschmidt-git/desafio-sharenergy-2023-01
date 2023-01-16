@@ -2,6 +2,10 @@
 
 Olá!
 Este repositório é a minha versão para o desafio do processo seletivo da ShareEnergy.
+<<<<<<< HEAD
+=======
+[YOUTUBE VIDEO](https://youtu.be/F1yqRLzGvec)
+>>>>>>> d642dcc9fc11a06bd2e045f481efb12c10b8d2a4
 
 ## Tecnologias utilizadas
 <ul>
