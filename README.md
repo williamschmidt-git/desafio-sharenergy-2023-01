@@ -17,16 +17,6 @@ Ao logar, utilizar o login ```desafiosharenergy``` e senha ```sh@r3n3rgy```
 <br>
 [**Aplicação**](https://interesting-animal-production.up.railway.app/)
 <br>
-Login
-<br>
-Random User
-<br>
-HTTPCat
-<br>
-Random Dog
-<br>
-Customers
-<br>
 
 ### Endpoints
 *POST*
@@ -42,12 +32,23 @@ Listar e Criar cliente
 <br>
 ```https://teal-wheel-production.up.railway.app/customers```
 <br>
-<br>
+**JSON FORMAT TO POST & PUT CUSTOMER**:
+```
+{
+  "address": "address",
+  "email": "customer@email.com",
+  "phone_number": "0000000000",
+  "customer_name": "customer",
+  "cpf": "00000000000"
+}
+```
 *GET & DELETE & PUT/PATCH*
 <br>
 Listar, atualizar ou deletar cliente específico
 <br>
-```https://teal-wheel-production.up.railway.app/customers/from/email```
+```https://teal-wheel-production.up.railway.app/customers/from/:email```
+<br>
+Substituir ```:email``` pelo email do cliente
 
 
 ## Sobre o desafio
