@@ -13,15 +13,27 @@ Este repositório é a minha versão para o desafio do processo seletivo da Shar
 </ul>
 
 ## Aplicação
-
-### Deploy
-[**App**](https://interesting-animal-production.up.railway.app/)
+Ao logar, utilizar o login ```desafiosharenergy``` e senha ```sh@r3n3rgy```
+<br>
+[**Aplicação**](https://interesting-animal-production.up.railway.app/)
+<br>
+Login
+<br>
+Random User
+<br>
+HTTPCat
+<br>
+Random Dog
+<br>
+Customers
 <br>
 
 ### Endpoints
 *POST*
 <br>
-Rota login ```https://teal-wheel-production.up.railway.app/auth/login```
+Rota login 
+<br>
+```https://teal-wheel-production.up.railway.app/auth/login```
 <br>
 <br>
 *GET & POST*
@@ -38,8 +50,5 @@ Listar, atualizar ou deletar cliente específico
 ```https://teal-wheel-production.up.railway.app/customers/from/email```
 
 
-## Caso queira instalar localmente
-- Faça um clone deste PR em seu repositório local com o comando ```git pull william-schmidt```
-- 
-
-
+## Sobre o desafio
+Primeiramente quero agradecer a oportunidade de realizar o desafio. Ressalto que recentemente, iniciei estudos em NestJs e aqui eu consegui os estudos do mesmo. O backend foi desenvolvido seguindo conceitos e paradigmas como **POO**, **SOLID**, E **TDD**. Nos testes, foi utilizado a ferramenta **Jest** e o conceito de **in-memory-database** para não instanciar nenhum banco de dados. Também foi criado **view-models** e **DTOs** para desacoplamento e formatação de dados. No frontend, foi utilizado **Vite** ao invés de **create-react-app**, por questões de performance, visto que é uma aplicação pequena.
