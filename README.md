@@ -1,11 +1,9 @@
 # Desafio para o processo seletivo SHARENERGY 2023/01
 
 Olá!
-Este repositório é a minha versão para o desafio do processo seletivo da ShareEnergy.
-
-[YOUTUBE VIDEO](https://youtu.be/F1yqRLzGvec)
+Este repositório é a minha versão para o desafio do processo seletivo da ShareEnergy. [YOUTUBE VIDEO](https://youtu.be/F1yqRLzGvec)
 <br>
->>>>>>> 8fd513f8dc3525326338dd3faec0fe0a35ce0487
+
 ## Tecnologias utilizadas
 <ul>
   <li>NestJs</li>
