@@ -15,8 +15,27 @@ Este repositório é a minha versão para o desafio do processo seletivo da Shar
 ## Aplicação
 
 #### Deploy
-[**FRONTEND**](https://interesting-animal-production.up.railway.app/)
+[**App**](https://interesting-animal-production.up.railway.app/)
 <br>
+
+#### Endpoints
+**POST** 
+<br>
+Rota login ```https://teal-wheel-production.up.railway.app/auth/login```
+<br>
+<br>
+**GET & POST**
+<br>
+Listar e Criar cliente
+<br>
+```https://teal-wheel-production.up.railway.app/customers```
+<br>
+<br>
+**GET & DELETE & PUT/PATCH**
+<br>
+Listar, atualizar ou deletar cliente específico
+<br>
+```https://teal-wheel-production.up.railway.app/customers/from/email```
 
 # O Desafio
 
