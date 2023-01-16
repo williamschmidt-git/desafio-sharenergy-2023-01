@@ -2,7 +2,12 @@
 
 Olá!
 Este repositório é a minha versão para o desafio do processo seletivo da ShareEnergy.
+<<<<<<< HEAD
 
+=======
+[YOUTUBE VIDEO](https://youtu.be/F1yqRLzGvec)
+<br>
+>>>>>>> 8fd513f8dc3525326338dd3faec0fe0a35ce0487
 ## Tecnologias utilizadas
 <ul>
   <li>NestJs</li>
@@ -52,4 +57,8 @@ Substituir ```:email``` pelo email do cliente
 
 
 ## Sobre o desafio
+<<<<<<< HEAD
 Primeiramente quero agradecer a oportunidade de realizar o desafio. Ressalto que recentemente, iniciei estudos em NestJs e aqui eu consegui os estudos do mesmo. O backend foi desenvolvido seguindo conceitos e paradigmas como **POO**, **SOLID**, E **TDD**. Nos testes, foi utilizado a ferramenta **Jest** e o conceito de **in-memory-database** para não instanciar nenhum banco de dados. Também foi criado **view-models** e **DTOs** para desacoplamento e formatação de dados. No frontend, foi utilizado **Vite** ao invés de **create-react-app**, por questões de performance, visto que é uma aplicação pequena.
+=======
+Primeiramente quero agradecer a oportunidade de realizar o desafio. Ressalto que recentemente, iniciei estudos em NestJs e aqui eu consegui os estudos do mesmo. O backend foi desenvolvido seguindo conceitos e paradigmas como **POO**, **SOLID**, E **TDD**. Nos testes, foi utilizado a ferramenta **Jest** e o conceito de **in-memory-database** para não instanciar nenhum banco de dados. Também foi criado **view-models** e **DTOs** para desacoplamento e formatação de dados. No frontend, foi utilizado **Vite** ao invés de **create-react-app**, por questões de performance, visto que é uma aplicação pequena.
+>>>>>>> 8fd513f8dc3525326338dd3faec0fe0a35ce0487
